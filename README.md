@@ -1,7 +1,7 @@
 ![Funny GIF](https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif)
 
 # 💫 About Me:
-* 🔭 I’m currently working on building scalable full-stack applications for freelance clients and optimizing client digital workflows<br>* 👯 I’m looking to collaborate on innovative, high-impact ideas and disruptive open-source projects<br>* 🤝 I’m looking for help with advanced database management, query optimization, and data modeling strategies<br>* 🌱 I’m currently learning Python for Data Science and machine learning workflows<br>* 💬 Ask me about the latest tech trends, integrating AI APIs, and leveraging AI solutions for real-world problems<br>* ⚡ Fun fact: I won the 2024 Smart India Hackathon and love building diverse AI and web development projects!
+<br>* 🔭 I’m currently working on building scalable full-stack applications for freelance clients and optimizing client digital workflows<br>* 👯 I’m looking to collaborate on innovative, high-impact ideas and disruptive open-source projects<br>* 🤝 I’m looking for help with advanced database management, query optimization, and data modeling strategies<br>* 🌱 I’m currently learning Python for Data Science and machine learning workflows<br>* 💬 Ask me about the latest tech trends, integrating AI APIs, and leveraging AI solutions for real-world problems<br>* ⚡ Fun fact: I won the 2024 Smart India Hackathon and love building diverse AI and web development projects!
 
 
 # 💻 Tech Stack:
@@ -10,9 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=MukundhArul&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=MukundhArul&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MukundhArul&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MukundhArul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
