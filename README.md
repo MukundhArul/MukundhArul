@@ -1,7 +1,7 @@
 ![Funny GIF](https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif)
 
 # 💫 About Me:
-<br><br>---<br><br>* 🔭 I’m currently working on building scalable full-stack applications for freelance clients and optimizing client digital workflows<br>* 👯 I’m looking to collaborate on innovative, high-impact ideas and disruptive open-source projects<br>* 🤝 I’m looking for help with advanced database management, query optimization, and data modeling strategies<br>* 🌱 I’m currently learning Python for Data Science and machine learning workflows<br>* 💬 Ask me about the latest tech trends, integrating AI APIs, and leveraging AI solutions for real-world problems<br>* ⚡ Fun fact: I won the 2024 Smart India Hackathon and love building diverse AI and web development projects!
+* 🔭 I’m currently working on building scalable full-stack applications for freelance clients and optimizing client digital workflows<br>* 👯 I’m looking to collaborate on innovative, high-impact ideas and disruptive open-source projects<br>* 🤝 I’m looking for help with advanced database management, query optimization, and data modeling strategies<br>* 🌱 I’m currently learning Python for Data Science and machine learning workflows<br>* 💬 Ask me about the latest tech trends, integrating AI APIs, and leveraging AI solutions for real-world problems<br>* ⚡ Fun fact: I won the 2024 Smart India Hackathon and love building diverse AI and web development projects!
 
 
 # 💻 Tech Stack:
